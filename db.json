@@ -1,0 +1,60 @@
+{
+  "homenews": [
+   {
+    "name": "Daniel Quiggin\n",
+    "url": "https://time.com/author/daniel-quiggin/",
+    "selection2": "Solar Power Alone Won't Save US",
+    "selection2_url": "https://time.com/7008695/solar-power-limits/"
+   },
+   {
+    "name": "Myisha Battle\n",
+    "url": "https://time.com/author/myisha-battle/",
+    "selection2": "Stop Talking First Date So Seriously",
+    "selection2_url": "https://time.com/7012203/first-dates-not-serious-essay/"
+   },
+   {
+    "name": "Amanda Jones\n",
+    "url": "https://time.com/author/amanda-jones/",
+    "selection2": "This Election  Will Determine The Fate of Libraries",
+    "selection2_url": "https://time.com/7011430/libraries-election-stakes-amanda-jones-essay/"
+   },
+   {
+    "name": "Allison Pugh\n",
+    "url": "https://time.com/author/allison-pugh/",
+    "selection2": "When AI Automates Relationships",
+    "selection2_url": "https://time.com/7010288/when-ai-automates-relationships-essay/"
+   }
+  ],
+  "getTimeStories": [
+    {
+     "name": "Hamas Says Hostage Guards are Operating Under New Orders",
+     "url": "https://time.com/7016928/hamas-hostage-guards-new-orders/",
+     "selection2": "September 3, 2024 • 7:50 AM EDT"
+    },
+    {
+      "name": "In Starz's 'Three Women,' Four's Crowd",
+      "url": "https://time.com/7014335/three-women-review-starz/",
+      "selection2": "September 3, 2024 • 7:00 AM EDT"
+     },
+     {
+      "name": "Your Cynicism Isn't Helping Anybody",
+      "url": "https://time.com/7012963/cynicism-myths-essay/",
+      "selection2": "September 3, 2024 • 7:00 AM EDT"
+     },
+     {
+      "name": "How to Make a Long- Distance Friendship Work",
+      "url": "https://time.com/7010684/how-to-make-a-long-distance-friendship-work/",
+      "selection2": "September 3, 2024 • 7:00 AM EDT"
+     },
+    {
+     "name": "Hundreds of 'Game of Thornes' Props Are Up for Auction",
+     "url": "https://time.com/7016924/game-of-thrones-memorabilia-auction/",
+     "selection2": "September 3, 2024 • 6:56 AM EDT"
+    },
+    {
+     "name": "How Restaurants are Catering to a Growing Number of solo Diners",
+     "url": "https://time.com/7016919/restaurants-solo-diners/",
+     "selection2": "September 3, 2024 • 6:48 AM EDT"
+    }
+   ]
+ }
